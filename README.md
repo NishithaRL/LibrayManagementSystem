@@ -1,0 +1,1 @@
+The library management system DBMS project aims to design and implement a comprehensive database to manage all aspects of a library's operations. The system will include modules for tracking book inventory, member registrations, and borrowing/return transactions.
